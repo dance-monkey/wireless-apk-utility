@@ -1,4 +1,4 @@
-# wireless-apk-loader
+# wireless-apk-utility
 A cost-platform automatic APK loader for Android Devices
 
 ## How to use
